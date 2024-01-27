@@ -1,1 +1,3 @@
-Olá seja bem vindo ao meu git. Aqui você pode acompanha meus projetos
+Projeto desenvolvido durante a Imersão Alura Spotify. 
+
+Nesta semana desenvolvi uma replica da página do Spotify
